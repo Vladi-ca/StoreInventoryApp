@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">StoreInventoryApp</string>
+
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">No product in the list</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a product [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Add products by clicking at add icon</string>
+    <string name="product_name">Product name</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_name">Name</string>
+
+    <!-- Text hint for breed field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_price">Price</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_supplier">Supplier</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_supplier_email">Enter email</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="product_quantity">Quantity of products</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="editor_product_plus">+</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="editor_product_minus">-</string>
+    <string name="editor_supplier">Supplier</string>
+    <string name="enter_supplier_name">Enter supplier name</string>
+    <string name="editor_email">Email</string>
+    <string name="edit_supplier_email">Enter supplier email</string>
+    <string name="editor_add_picture">Add picture</string>
+    <string name="sale">Sale</string>
+    <string name="order_from_supplier">Order\n from supplier</string>
+    <string name="order_now">Order now</string>
+
+    <!-- Label for overflow menu option that inserts fake product data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all product data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Products</string>
+
+    <!-- Label for editor menu option to save product and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current product [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <string name="editor_insert_product_fail">Error while inserting the product</string>
+    <string name="editor_insert_update_fail">Error while updating the product</string>
+    <string name="editor_delete_fail">Error while deleting the product</string>
+    <string name="editor_insert_product_ok">Success!</string>
+
+    <string name="price_zero">0</string>
+
+    <string name="editor_insert_all">Fill all and add an image, please</string>
+
+    <string name="editor_activity_title_new_product">Add product</string>
+    <string name="editor_activity_title_edit_product">Edit product</string>
+
+    <string name="unsaved_changes_dialog_msg">There are unsaved changes</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+
+    <string name="delete_dialog_msg">Want to delete the product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

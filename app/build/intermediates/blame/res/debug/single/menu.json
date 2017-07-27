@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Vladi/AndroidStudioProjects/StoreInventoryApp/app/build/intermediates/res/merged/debug/menu/menu_editor.xml",
+        "source": "/Users/Vladi/AndroidStudioProjects/StoreInventoryApp/app/src/main/res/menu/menu_editor.xml"
+    },
+    {
+        "merged": "/Users/Vladi/AndroidStudioProjects/StoreInventoryApp/app/build/intermediates/res/merged/debug/menu/menu_catalog.xml",
+        "source": "/Users/Vladi/AndroidStudioProjects/StoreInventoryApp/app/src/main/res/menu/menu_catalog.xml"
+    }
+]

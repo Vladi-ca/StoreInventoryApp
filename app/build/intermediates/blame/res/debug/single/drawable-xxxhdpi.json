@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Vladi/AndroidStudioProjects/StoreInventoryApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_playlist_add_check.png",
+        "source": "/Users/Vladi/AndroidStudioProjects/StoreInventoryApp/app/src/main/res/drawable-xxxhdpi/ic_playlist_add_check.png"
+    },
+    {
+        "merged": "/Users/Vladi/AndroidStudioProjects/StoreInventoryApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_insert_photo.png",
+        "source": "/Users/Vladi/AndroidStudioProjects/StoreInventoryApp/app/src/main/res/drawable-xxxhdpi/ic_insert_photo.png"
+    },
+    {
+        "merged": "/Users/Vladi/AndroidStudioProjects/StoreInventoryApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_note_add.png",
+        "source": "/Users/Vladi/AndroidStudioProjects/StoreInventoryApp/app/src/main/res/drawable-xxxhdpi/ic_note_add.png"
+    }
+]
